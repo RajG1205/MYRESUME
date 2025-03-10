@@ -1,2 +1,2 @@
 # MYRESUMEe
-This the my basic resume ,which is made by the help of html and css.
+This the my different types of resume ,which is made by the help of html and css.
